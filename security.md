@@ -24,7 +24,6 @@ Please include:
 
 * spacebarlabs.com
 * cloudbreak.app
-* sunya.plus
 * Any applications we manage (e.g., freshrss.cloudbreak.app)
 
 **Out of Scope:**
